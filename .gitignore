@@ -1,0 +1,10 @@
+# Ignore bundler config.
+/.idea
+/.bundle
+
+# Ignore all tempfiles.
+/tmp
+
+# Ignore repository files except .gitkeep
+/repository/*
+!/repository/.gitkeep
